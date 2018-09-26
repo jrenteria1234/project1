@@ -1,6 +1,6 @@
 # MusicUp-Project-1
 
-https://carolunita.github.io/MusicUp-Project-1/
+
 
 Our application helps music lovers to find local music events happening in a span of 24 hours. 
 By clicking on the events they can purchase tickets through Eventbrite. 
